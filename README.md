@@ -5,8 +5,5 @@ This famous game have only two rules
 1. If a living cell is close to two or three ones it stay alive. Otherwise it die 😕
 1. If a dead cell is close to three other cell it born
 
-## Contributors
-ME and it took up a three days week-end 
-
-[](https://media.giphy.com/media/eKVQGBN9NTV2vNpqZA/giphy.gif)
-[](https://media.giphy.com/media/eKVQGBN9NTV2vNpqZA/giphy.gif)
+![image](https://user-images.githubusercontent.com/75331707/151792253-4b00698e-bb15-49ec-ba9f-eacbadc5a6a3.png)
+![image](https://user-images.githubusercontent.com/75331707/151792417-0d82426e-873f-4225-bd84-cdd04a858b0a.png)
